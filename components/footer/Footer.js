@@ -61,7 +61,7 @@ export default function Footer() {
                   <li>NTT情報ネットワーク総合研究所</li>
                 </ul>
               </div>
-              <div className="col-span-3 mt-4 text-[0.7rem]">
+              <div className="col-span-3 mt-10 text-[0.7rem]">
                 motにおける技術経営（Management of Technology）とは <br />
                 motの技術経営とは、単なる技術開発や導入に留まらず、テクノロジーを起点に事業価値を最大化するための意思決定・実行プロセスそのものを指します。
               </div>
