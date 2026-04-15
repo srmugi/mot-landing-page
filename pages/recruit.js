@@ -29,251 +29,84 @@ export default function Recruit({ content }) {
         </div>
       </div>
       <div className="container mx-auto px-6">
-        <center>
-          <div className="text-center text-2xl mb-8">
-            <div
-              dangerouslySetInnerHTML={{
-                __html:
-                  safeContent.title.replaceAll("\n", "<br />") ||
-                  amplifyDisabledMessage,
-              }}
-            />
-          </div>
-          <div className="text-center text-sm md:max-w-4xl">
-            <div
-              dangerouslySetInnerHTML={{
-                __html: safeContent.description.replaceAll("\n", "<br />"),
-              }}
-            />
-          </div>
-        </center>
         <div className="grid grid-cols-3 my-40 gap-x-10 gap-y-10 md:gap-y-40">
-          <div className="col-span-3">
-            <div className="text-5xl mb-4">
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: safeContent.title1.replaceAll("\n", "<br />"),
-                }}
-              />
-            </div>
-            <div className="text-lg">
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: safeContent.description1.replaceAll("\n", "<br />"),
-                }}
-              />
-            </div>
-          </div>
           <div className="col-span-3 md:col-span-1">
-            <img src="/img/recruit/01.jpg" alt="recruit01" width="100%" />
+            <img src="/img/recruit/01.png" alt="recruit01" width="100%" />
           </div>
           <div className="col-span-3 md:col-span-2">
-            <div className="text-2xl mb-3">
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: safeContent.title2.replaceAll("\n", "<br />"),
-                }}
-              />
-            </div>
             <div className="text-sm">
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: safeContent.description2.replaceAll("\n", "<br />"),
-                }}
-              />
+              AIに飲み込まれるのではなく「力」に
+              <br />
+              次世代の事業を「共創」し、社会的問題を解決する。
+              <br />
+              そして、あなたの一歩が多くを動かす人材へと成長させます。
             </div>
           </div>
           <div className="col-span-3 md:col-span-1 md:hidden">
-            <img src="/img/recruit/02.jpg" alt="recruit02" width="100%" />
+            <img src="/img/recruit/02.png" alt="recruit02" width="100%" />
           </div>
           <div className="col-span-3 md:col-span-2">
-            <div className="text-2xl mb-3">
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: safeContent.title3.replaceAll("\n", "<br />"),
-                }}
-              />
-            </div>
             <div className="text-sm">
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: safeContent.description3.replaceAll("\n", "<br />"),
-                }}
-              />
+              motが目指すのはAI時代の先駆者。
+              <br />
+              多くの専門的戦略的知見を持った仲間が共創しながら価値提供を追い求める。
+              <br />
+              ビジネスと共に、常に変化し、成長し続ける高付加価値を提供する組織です。
+              <br />
+              次世代のビジネスを動かすエキスパートを求めています。
+              <br />
+              そして、あなたの「大切な人」や「大切なもの」を 守れる力が身につく
+              <br />
+              また「独立支援制度」もある当社でなら、独立したい人もそうでない人も
+              独立できるくらいのスキルが身に付きます。
             </div>
           </div>
           <div className="col-span-3 md:col-span-1 hidden md:block">
-            <img src="/img/recruit/02.jpg" alt="recruit02" width="100%" />
+            <img src="/img/recruit/02.png" alt="recruit02" width="100%" />
           </div>
           <div className="col-span-3 md:col-span-1">
-            <img src="/img/recruit/03.jpg" alt="recruit03" width="100%" />
+            <img src="/img/recruit/03.png" alt="recruit03" width="100%" />
           </div>
           <div className="col-span-3 md:col-span-2">
-            <div className="text-2xl mb-3">
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: safeContent.title4.replaceAll("\n", "<br />"),
-                }}
-              />
-            </div>
             <div className="text-sm">
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: safeContent.description4.replaceAll("\n", "<br />"),
-                }}
-              />
-            </div>
-          </div>
-          <div className="col-span-3">
-            <div className="text-5xl mb-4">
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: safeContent.title5.replaceAll("\n", "<br />"),
-                }}
-              />
-            </div>
-            <div className="text-lg">
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: safeContent.description5.replaceAll("\n", "<br />"),
-                }}
-              />
-            </div>
-          </div>
-          <div className="col-span-3 md:col-span-1">
-            <img src="/img/recruit/04.jpg" alt="recruit04" width="100%" />
-          </div>
-          <div className="col-span-3 md:col-span-2">
-            <div className="text-2xl mb-3">
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: safeContent.title6.replaceAll("\n", "<br />"),
-                }}
-              />
-            </div>
-            <div className="text-sm">
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: safeContent.description6.replaceAll("\n", "<br />"),
-                }}
-              />
+              目的を持って働く
+              <br />
+              ポジティブな変化をもたらし、社員、お客様、そして私たちが生活し働くコミュニティのために社会をより良くしていきます
+              <br />
+              また、生成AIなどの強力なAIツールは、これまでにないチャンスと新たなリスクをもたらします。motは、クライアントが正しい認識をもって行動し、AIを設計、導入、活用して価値を生み出し、信頼を築いていけるように支援しています。
             </div>
           </div>
           <div className="col-span-3 md:col-span-1 md:hidden">
-            <img src="/img/recruit/05.jpg" alt="recruit05" width="100%" />
+            <img src="/img/recruit/04.png" alt="recruit04" width="100%" />
           </div>
           <div className="col-span-3 md:col-span-2">
-            <div className="text-2xl mb-3">
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: safeContent.title7.replaceAll("\n", "<br />"),
-                }}
-              />
-            </div>
             <div className="text-sm">
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: safeContent.description7.replaceAll("\n", "<br />"),
-                }}
-              />
+              多種多様な才能を発揮できる組織をつくる
+              <br />
+              社員に愛されるより社員を愛する会社にし
+              <br />
+              いろいろな人がいろいろな働き方のできる組織にしていく。
             </div>
           </div>
           <div className="col-span-3 md:col-span-1 hidden md:block">
-            <img src="/img/recruit/05.jpg" alt="recruit05" width="100%" />
+            <img src="/img/recruit/04.png" alt="recruit04" width="100%" />
           </div>
           <div className="col-span-3 md:col-span-1">
-            <img src="/img/recruit/06.jpg" alt="recruit06" width="100%" />
+            <img src="/img/recruit/05.png" alt="recruit05" width="100%" />
           </div>
           <div className="col-span-3 md:col-span-2">
-            <div className="text-2xl mb-3">
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: safeContent.title8.replaceAll("\n", "<br />"),
-                }}
-              />
-            </div>
             <div className="text-sm">
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: safeContent.description8.replaceAll("\n", "<br />"),
-                }}
-              />
-            </div>
-          </div>
-          <div className="col-span-3">
-            <div className="text-5xl mb-4">
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: safeContent.title9.replaceAll("\n", "<br />"),
-                }}
-              />
-            </div>
-            <div className="text-lg">
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: safeContent.description9.replaceAll("\n", "<br />"),
-                }}
-              />
-            </div>
-          </div>
-          <div className="col-span-3 md:col-span-1">
-            <img src="/img/recruit/07.jpg" alt="recruit07" width="100%" />
-          </div>
-          <div className="col-span-3 md:col-span-2">
-            <div className="text-2xl mb-3">
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: safeContent.title10.replaceAll("\n", "<br />"),
-                }}
-              />
-            </div>
-            <div className="text-sm">
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: safeContent.description10.replaceAll("\n", "<br />"),
-                }}
-              />
-            </div>
-          </div>
-          <div className="col-span-3 md:col-span-1 md:hidden">
-            <img src="/img/recruit/08.jpg" alt="recruit08" width="100%" />
-          </div>
-          <div className="col-span-3 md:col-span-2">
-            <div className="text-2xl mb-3">
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: safeContent.title11.replaceAll("\n", "<br />"),
-                }}
-              />
-            </div>
-            <div className="text-sm">
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: safeContent.description11.replaceAll("\n", "<br />"),
-                }}
-              />
-            </div>
-          </div>
-          <div className="col-span-3 md:col-span-1 hidden md:block">
-            <img src="/img/recruit/08.jpg" alt="recruit08" width="100%" />
-          </div>
-          <div className="col-span-3 md:col-span-1">
-            <img src="/img/recruit/09.jpg" alt="recruit09" width="100%" />
-          </div>
-          <div className="col-span-3 md:col-span-2">
-            <div className="text-2xl mb-3">
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: safeContent.title12.replaceAll("\n", "<br />"),
-                }}
-              />
-            </div>
-            <div className="text-sm">
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: safeContent.description12.replaceAll("\n", "<br />"),
-                }}
-              />
+              最後に、ここまで読んで下さりありがとうございます。
+              <br />
+              私たちは、技術を使い社会課題「貧困」を解決することをMission-Vision-Valueとして捉えてます。
+              <br />
+              今、様々な情報、技術が飛び交い、想像もできないスピードで進化しています。
+              <br />
+              その一つのアプローチとして社会課題を如何に解決するかをテーマに事業を行っております。
+              <br />
+              もし、弊社の考え方に賛同していただける方がおりましたら、ぜひ応募いただけると幸いです。
+              <br />
+              皆様と会えることを日々楽しみにしています。
             </div>
           </div>
         </div>
