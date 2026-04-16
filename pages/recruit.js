@@ -47,7 +47,7 @@ export default function Recruit({ content }) {
           </div>
           <div className="col-span-3 md:col-span-2">
             <div className="text-sm">
-              motが目指すのはAI時代の先駆者。
+              MOTが目指すのはAI時代の先駆者。
               <br />
               多くの専門的戦略的知見を持った仲間が共創しながら価値提供を追い求める。
               <br />
@@ -73,7 +73,7 @@ export default function Recruit({ content }) {
               <br />
               ポジティブな変化をもたらし、社員、お客様、そして私たちが生活し働くコミュニティのために社会をより良くしていきます
               <br />
-              また、生成AIなどの強力なAIツールは、これまでにないチャンスと新たなリスクをもたらします。motは、クライアントが正しい認識をもって行動し、AIを設計、導入、活用して価値を生み出し、信頼を築いていけるように支援しています。
+              また、生成AIなどの強力なAIツールは、これまでにないチャンスと新たなリスクをもたらします。MOTは、クライアントが正しい認識をもって行動し、AIを設計、導入、活用して価値を生み出し、信頼を築いていけるように支援しています。
             </div>
           </div>
           <div className="col-span-3 md:col-span-1 md:hidden">

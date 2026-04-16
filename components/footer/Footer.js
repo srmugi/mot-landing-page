@@ -62,8 +62,8 @@ export default function Footer() {
                 </ul>
               </div>
               <div className="col-span-3 mt-10 text-[0.7rem]">
-                motにおける技術経営（Management of Technology）とは <br />
-                motの技術経営とは、単なる技術開発や導入に留まらず、テクノロジーを起点に事業価値を最大化するための意思決定・実行プロセスそのものを指します。
+                MOTにおける技術経営（Management of Technology）とは <br />
+                MOTの技術経営とは、単なる技術開発や導入に留まらず、テクノロジーを起点に事業価値を最大化するための意思決定・実行プロセスそのものを指します。
               </div>
               <div className="col-span-3 mt-4 text-[0.7rem]">
                 具体的には、AI・データ・ソフトウェアといった先端技術を活用し、
@@ -73,7 +73,7 @@ export default function Footer() {
                 を設計・推進することに重きを置いています。
               </div>
               <div className="col-span-3 mt-4 text-[0.7rem]">
-                また、motでは以下を一気通貫で担う点に特徴があります。
+                また、MOTでは以下を一気通貫で担う点に特徴があります。
                 <ul>
                   <li>・技術選定・アーキテクチャ設計</li>
                   <li>・PoCから本番運用までの実装・推</li>

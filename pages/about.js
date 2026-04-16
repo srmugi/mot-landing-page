@@ -87,7 +87,7 @@ export default function About({ content }) {
                 <br />
                 戦略立案から実行・改善までを一気通貫で支援し、実行力ある変革を実現します。
                 <br />
-                AIワークフロー構築プロダクト「mot
+                AIワークフロー構築プロダクト「MOT
                 Flow」を活用することで、AI活用を業務に組み込み、ビジネスKPIの達成まで導きます。
               </div>
             </div>
@@ -103,7 +103,7 @@ export default function About({ content }) {
               <div>
                 コンサルタントの能力を最大限に引き出す、AI業務支援プロダクトです。
                 <br />
-                mot
+                MOT
                 AIAgentに所属するコンサルタントの業務プロセスにおいて、効率化可能な作業をAIが支援。
                 <br />
                 意思決定の質と支援品質の向上を実現します。
