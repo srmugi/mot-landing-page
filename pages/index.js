@@ -279,7 +279,7 @@ export default function Home() {
             </div>
             <div>
               <ReadButton
-                href="/about"
+                href="/blog"
                 text="Read More"
                 color={dark ? "white" : "black"}
               />
