@@ -7,7 +7,7 @@ export default function Layout(props) {
   return (
     <div>
       <Head>
-        <title>MOT</title>
+        <title>MOT Inc.</title>
         <meta name="description" content="This is landing page of MOT Inc." />
         <link rel="icon" href="/favicon.ico" />
       </Head>

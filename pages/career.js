@@ -29,7 +29,7 @@ export default function Career({ content }) {
         </div>
       </div>
       <div className="container mx-auto px-6 md:px-48">
-        <center>
+        {/* <center>
           <div className="text-center text-2xl mb-8">
             <div
               dangerouslySetInnerHTML={{
@@ -203,7 +203,7 @@ export default function Career({ content }) {
             }}
           />
           <br />
-        </div>
+        </div> */}
         <div className="my-40 text-center">
           <ReadButton href="/" text="TOPページへ" />
         </div>

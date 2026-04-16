@@ -15,18 +15,18 @@ const navs = [
     title: "募集要項",
     path: "/apply",
   },
-  // {
-  //   title: "キャリアアップ・研修",
-  //   path: "/career",
-  // },
+  {
+    title: "キャリアアップ・研修",
+    path: "/career",
+  },
   // {
   //   title: "企業概要",
   //   path: "/company",
   // },
-  // {
-  //   title: "エントリーフォーム",
-  //   path: "/entry",
-  // },
+  {
+    title: "エントリーフォーム",
+    path: "/entry",
+  },
   // {
   //   title: "お問い合わせ",
   //   path: "/inquiry",
@@ -35,10 +35,10 @@ const navs = [
     title: "プライバシーポリシー",
     path: "/policy",
   },
-  // {
-  //   title: "ブログ",
-  //   path: "/blog",
-  // },
+  {
+    title: "ブログ",
+    path: "/blog",
+  },
 ];
 
 export default navs;

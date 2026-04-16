@@ -212,14 +212,8 @@ export default function Entry({ content }) {
             err={notValidated.includes("qualification")}
           />
         </form>
-        <div className="text-2xl mt-14 mb-10">
-          <div
-            dangerouslySetInnerHTML={{
-              __html:
-                safeContent.title.replaceAll("\n", "<br />") ||
-                amplifyDisabledMessage,
-            }}
-          />
+        <div className="text-2xl mt-14 mb-10 text-red-500">
+          現在、応募フォームはご利用いただけません。
         </div>
         <div className="bg-white border border-neutral-500 rounded p-3 h-40 overflow-y-auto">
           <div

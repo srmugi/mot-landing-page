@@ -33,7 +33,7 @@ export default function Blog({ blogs }) {
         <div className="grid grid-cols-3 gap-20">
           {!blogs.length && (
             <div className="col-span-3 text-center text-sm">
-              {amplifyDisabledMessage}
+              投稿された記事はありません。
             </div>
           )}
           {blogs.map((blog, idx) => (
