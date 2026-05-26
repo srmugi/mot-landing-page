@@ -34,14 +34,14 @@ export default function Footer() {
               <div>mot.inc</div>
               <div>代表取締役</div>
               <div>：</div>
-              <div>堤 新一</div>
+              <div>𫝆村 峻輔</div>
               <div>資本金</div>
               <div>：</div>
               <div>990万円</div>
               <div>住所</div>
               <div>：</div>
               <div>
-                〒160-0030
+                〒160-0023
                 <br />
                 東京都新宿区西新宿３丁目３−１５
                 <br />
@@ -62,8 +62,8 @@ export default function Footer() {
                 </ul>
               </div>
               <div className="col-span-3 mt-10 text-[0.7rem]">
-                MOTにおける技術経営（Management of Technology）とは <br />
-                MOTの技術経営とは、単なる技術開発や導入に留まらず、テクノロジーを起点に事業価値を最大化するための意思決定・実行プロセスそのものを指します。
+                motにおける技術経営（Management of Technology）とは <br />
+                motの技術経営とは、単なる技術開発や導入に留まらず、テクノロジーを起点に事業価値を最大化するための意思決定・実行プロセスそのものを指します。
               </div>
               <div className="col-span-3 mt-4 text-[0.7rem]">
                 具体的には、AI・データ・ソフトウェアといった先端技術を活用し、
@@ -73,7 +73,7 @@ export default function Footer() {
                 を設計・推進することに重きを置いています。
               </div>
               <div className="col-span-3 mt-4 text-[0.7rem]">
-                また、MOTでは以下を一気通貫で担う点に特徴があります。
+                また、motでは以下を一気通貫で担う点に特徴があります。
                 <ul>
                   <li>・技術選定・アーキテクチャ設計</li>
                   <li>・PoCから本番運用までの実装・推</li>
