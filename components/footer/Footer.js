@@ -34,7 +34,7 @@ export default function Footer() {
               <div>mot.inc</div>
               <div>代表取締役</div>
               <div>：</div>
-              <div>𫝆村 峻輔</div>
+              <div>堤 新一</div>
               <div>資本金</div>
               <div>：</div>
               <div>990万円</div>
