@@ -38,6 +38,9 @@ export default function Footer() {
               <div>資本金</div>
               <div>：</div>
               <div>990万円</div>
+              <div>従業員数</div>
+              <div>：</div>   
+    　　　　　　<div>98名</div>
               <div>住所</div>
               <div>：</div>
               <div>
