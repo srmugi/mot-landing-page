@@ -34,15 +34,15 @@ export default function Footer() {
               <div>mot.inc</div>
               <div>代表取締役</div>
               <div>：</div>
-              <div>堤 新一</div>
+              <div>𫝆村 峻輔</div>
               <div>資本金</div>
               <div>：</div>
               <div>990万円</div>
               <div>従業員数</div>
               <div>：</div>
     　　　　　　<div>98名</div>
-              <div>住所</div>
               <div>：</div>
+              <div>住所</div>
               <div>
                 〒160-0023
                 <br />
@@ -50,6 +50,7 @@ export default function Footer() {
                 <br />
                 ワシントンホテルビルAnex ビジネス棟3F
               </div>
+              <div>：</div>
               <div>主な取引先</div>
               <div>：</div>
               <div>
