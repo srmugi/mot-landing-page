@@ -149,7 +149,7 @@ export default function Policy({ content }) {
             <div className="space-y-2">
               <div>会社名： 【mot.inc】</div>
               <div>住所： 【東京都新宿区西新宿３丁目３−１５】</div>
-              <div>代表者： 【𫝆村 峻輔】</div>
+              <div>代表者： 【堤 新一】</div>
               <div>メールアドレス： 【メールアドレス】</div>
             </div>
           </div>
